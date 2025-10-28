@@ -24,7 +24,7 @@ The **SOSLixo** app aims to solve this problem by sending reports and notificati
 4. Log in to the app.
 5. Click on the **"Novo requerimento"** button.
 6. Point the camera at the discarded trash location and tap the **camera icon**.
-7. Add a description (optional) and click **"Enviar"** button 
+7. Add a description (optional) and click **"Enviar"** button. 
 
 
 
